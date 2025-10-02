@@ -60,7 +60,7 @@ The model successfully learned the heat-loss relationship:
 
 * Loss quickly dropped and converged close to **zero**.
 
-![Training Loss Curve](./images/training_loss.png)
+![Training Loss Curve](./training_loss.png)
 
 ### Optimization Logs
 
